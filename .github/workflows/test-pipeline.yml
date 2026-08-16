@@ -19,4 +19,4 @@ jobs:
       - name: Validate Docker Compose configuration
         run: |
           echo "Testing docker-compose syntax..."
-          docker-compose -f project6/docker-compose.yml config
+          docker compose -f project6/docker-compose.yml config
