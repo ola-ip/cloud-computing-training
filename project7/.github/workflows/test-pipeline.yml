@@ -1,0 +1,22 @@
+name: Project Syntax Checks
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  validate-files:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+
+      - name: Check Dockerfile syntax
+        run: |
+          echo "Testing if Dockerfile exists..."
+          test -f project4/Dockerfile && echo "Dockerfile found!"
+
+      - name: Validate Docker Compose configuration
+        run: |
+          echo "Testing docker-compose syntax..."
+          docker-compose -f project6/docker-compose.yml config

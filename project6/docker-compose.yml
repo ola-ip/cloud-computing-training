@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  webserver:
+    image: nginx:alpine
+    container_name: custom_web
+    ports:
+      - "8080:80"
+    restart: always
+
+  database:
+    image: postgres:15-alpine
+    container_name: custom_db
+    environment:
+      POSTGRES_USER: intern_user
+      POSTGRES_PASSWORD: SecretPassword123
+      POSTGRES_DB: app_db
+    ports:
+      - "5432:5432"
+    restart: always
