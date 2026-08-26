@@ -2,7 +2,8 @@
 
 ## Overview
 
-This repository contains the projects completed during my Cloud Computing Internship. The projects cover fundamental Linux administration, web server deployment, Git and GitHub, Docker, containerization, CI/CD, Kubernetes, and system monitoring.
+cd ~/training
+nano README.mdThis repository contains the projects completed during my Cloud Computing Internship. The projects cover fundamental Linux administration, web server deployment, Git and GitHub, Docker, containerization, CI/CD, Kubernetes, and system monitoring.
 
 ## Technologies Used
 
@@ -17,6 +18,18 @@ This repository contains the projects completed during my Cloud Computing Intern
 - Minikube
 - Prometheus
 - Grafana
+
+## Projects
+
+1. [Project 1 — Ubuntu Server & Nginx](#project-1--ubuntu-server--nginx)
+2. [Project 2 — Git & GitHub](#project-2--git--github)
+3. [Project 3 — Docker](#project-3--docker)
+4. [Project 4 — Docker Compose](#project-4--docker-compose)
+5. [Project 5 — Docker Volumes & Networking](#project-5--docker-volumes--networking)
+6. [Project 6 — Custom Docker Image](#project-6--custom-docker-image)
+7. [Project 7 — GitHub Actions & CI/CD](#project-7--github-actions--cicd)
+8. [Project 8 — Kubernetes & Minikube](#project-8--kubernetes--minikube)
+9. [Project 9 — System Observability & Monitoring](#project-9--system-observability--monitoring)
 
 ---
 
