@@ -2,8 +2,9 @@
 
 ## Overview
 
-cd ~/training
-nano README.mdThis repository contains the projects completed during my Cloud Computing Internship. The projects cover fundamental Linux administration, web server deployment, Git and GitHub, Docker, containerization, CI/CD, Kubernetes, and system monitoring.
+## Overview
+
+This repository contains the projects completed during my Cloud Computing Internship. The projects cover fundamental Linux administration, web server deployment, Git and GitHub, Docker, containerization, CI/CD, Kubernetes, and system monitoring.
 
 ## Technologies Used
 
