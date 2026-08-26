@@ -26,9 +26,9 @@ In Project 1, I worked with Ubuntu Server in VirtualBox and configured a web ser
 
 ### Evidence
 
-![Project 1 - VirtualBox and Ubuntu](images/Week1-virtualbox-ubuntu.png)
+![Project 1 - Ubuntu](images/project1-ubuntu.png)
 
-![Project 1 - Nginx](images/week1.1-virtualbox-nginx.png)
+![Project 1 - Nginx](images/project1-nginx.png)
 
 ---
 
@@ -38,7 +38,7 @@ Project 2 introduced version control using Git and GitHub. I created and managed
 
 ### Evidence
 
-![Project 2 - Git and GitHub](images/week2-github.png)
+![Project 2 - Git and GitHub](images/project2-github.png)
 
 ---
 
@@ -48,9 +48,9 @@ In Project 3, I learned the fundamentals of Docker by creating a Dockerfile and 
 
 ### Evidence
 
-![Project 3 - Docker](images/week3-docker.png)
+![Project 3 - Docker](images/project3-docker-1.png)
 
-![Project 3 - Docker](images/week3-docker.1.png)
+![Project 3 - Docker](images/project3-docker-2.png)
 
 ---
 
@@ -60,9 +60,9 @@ Project 4 focused on Docker Compose and multi-container applications. I created 
 
 ### Evidence
 
-![Project 4 - Docker Compose](images/week4-docker-compose.png)
+![Project 4 - Docker Compose](images/project4-docker-compose-1.png)
 
-![Project 4B - Docker Compose](images/week4b-docker-compose.png)
+![Project 4B - Docker Compose](images/project4-docker-compose-2.png)
 
 ---
 
@@ -72,7 +72,7 @@ Project 5 focused on Docker data persistence and container networking. I worked 
 
 ### Evidence
 
-![Project 5 - Docker Volumes and Networking](images/week5-docker-volumes-networking.png)
+![Project 5 - Docker Volumes and Networking](images/project5-docker-volumes-networking.png)
 
 ---
 
@@ -82,7 +82,7 @@ Project 6 involved creating a custom Docker image using a Dockerfile and serving
 
 ### Evidence
 
-![Project 6 - Custom Docker Image](images/week6-Docker%20Compose_custom%20Docker%20image.png)
+![Project 6 - Custom Docker Image](images/project6-custom-docker-image.png)
 
 ---
 
@@ -92,9 +92,9 @@ Project 7 introduced Continuous Integration and Continuous Deployment using GitH
 
 ### Evidence
 
-![Project 7 - GitHub Actions](images/week7-GitHub%20Actions.png)
+![Project 7 - GitHub Actions](images/project7-github-actions-1.png)
 
-![Project 7 - GitHub Actions](images/week7.1-GitHub%20Actions.png)
+![Project 7 - GitHub Actions](images/project7-github-actions-2.png)
 
 ---
 
@@ -104,7 +104,7 @@ Project 8 introduced Kubernetes and Minikube. I deployed workloads, managed Kube
 
 ### Evidence
 
-![Project 8 - Kubernetes and Minikube](images/week8-Kubernetes_Minikube.png)
+![Project 8 - Kubernetes and Minikube](images/project8-kubernetes.png)
 
 ---
 
@@ -116,13 +116,13 @@ I deployed Prometheus and Grafana using Docker Compose, connected Prometheus as 
 
 ### Evidence
 
-![Project 9 - Docker Compose](images/week9-Prometheus+Grafana.png)
+![Project 9 - Prometheus and Grafana](images/project9-prometheus-grafana-1.png)
 
-![Project 9 - Prometheus](images/week9.1-Prometheus+Grafana.png)
+![Project 9 - Prometheus and Grafana](images/project9-prometheus-grafana-2.png)
 
-![Project 9 - Grafana Dashboard](images/week9.2-Prometheus+Grafana.png)
+![Project 9 - Prometheus and Grafana](images/project9-prometheus-grafana-3.png)
 
-![Project 9 - Monitoring](images/week9.3-Prometheus+Grafana.png)
+![Project 9 - Prometheus and Grafana](images/project9-prometheus-grafana-4.png)
 
 ---
 
